@@ -19,7 +19,7 @@ ChatGPT：
 |  título  | Crie 5 sugestões de título e subtítulo que possua a palavra caminho e fale sobre o tema de qualidade de vida, baseado nos tópicos viver com propósito, de forma saudável e equilibrada                                                        |
 | conteúdo | Faça um texto para ebook, focado em qualidade de vida, incluindo tópicos relacionados a viver com propósito e sem estresse e dicas para ter uma vida saudável e equilibrada como as pessoas que vivem nas chamadas zonas azuis. |
 
-###Regras
+### Regras do script do conteúdo
 - Para cada tópico criado inclua uma mensagem curta que toque o leitor e o faça refletir sobre o tema. Mensagem motivacional.
 - Cada seção pode conter no máximo 3 parágrafos. Deixe o texto resumido.
 - Explique sempre de uma maneira simples 
